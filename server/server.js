@@ -19,3 +19,5 @@ app.start = function() {
 if (require.main === module) {
   app.start();
 }
+console.log('I am server.js');
+console.log(process.env);

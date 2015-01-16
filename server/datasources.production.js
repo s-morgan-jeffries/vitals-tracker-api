@@ -11,3 +11,6 @@ module.exports = {
     "url": process.env.MONGOLAB_URI
   }
 };
+
+console.log('I am datasources.production.js');
+console.log(process.env);
