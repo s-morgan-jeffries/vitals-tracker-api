@@ -12,5 +12,5 @@ module.exports = {
   }
 };
 
-console.log('I am datasources.production.js');
-console.log(process.env);
+//console.log('I am datasources.production.js');
+//console.log(process.env);
