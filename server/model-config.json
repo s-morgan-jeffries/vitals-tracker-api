@@ -21,11 +21,11 @@
   },
   "RoleMapping": {
     "dataSource": "mongodb",
-    "public": false
+    "public": true
   },
   "Role": {
     "dataSource": "mongodb",
-    "public": false
+    "public": true
   },
   "ApiUser": {
     "dataSource": "mongodb",
